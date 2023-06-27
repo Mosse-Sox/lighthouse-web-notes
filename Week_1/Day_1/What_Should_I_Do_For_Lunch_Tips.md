@@ -8,5 +8,6 @@ To help you figure out to use `hunry` and `availableTime` inside your function, 
 
 ```javascript
 const whatToDoForLunch(hungry, availableTime) {
-  console.log
-}
+  console.log("hungry is", hungry);
+  console.log("availableTime is", availableTime);
+};
