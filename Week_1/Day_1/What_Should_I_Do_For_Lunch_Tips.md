@@ -7,7 +7,8 @@ Work on your code iteratively - that means in small pieces.
 To help you figure out to use `hunry` and `availableTime` inside your function, try outputting their values to the Terminal as follows.
 
 ```javascript
-const whatToDoForLunch(hungry, availableTime) {
+const whatToDoForLunch = function(hungry, availableTime) {
   console.log("hungry is", hungry);
   console.log("availableTime is", availableTime);
 };
+```
