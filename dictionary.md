@@ -5,18 +5,20 @@
 ---
 <h6>
 
-* [Open Systems Model](): 
-* [TCP (Transmission Control Protocol)]():
-* [UDP](): 
-* [HTTP]():
-* [UTF-8]():
-* [Webserver]():
-* [DNS]():
-* [Networking]():
-* [Web Scraping]():
-* [Recursion]():
-* [Synchronous Code]():
 * [Asynchronous Code]():
+* [DNS]():
+* [HTTP]():
+* [Networking]():
+* [Open Systems Model]():
+* [Recursion]():
+* [Status Code]():
+* [Synchronous Code]():
+* [TCP (Transmission Control Protocol)]():
+* [UDP]():
+* [UTF-8]():
+* [Web Scraping]():
+* [Webserver]():
+
 
 
 </h6>
