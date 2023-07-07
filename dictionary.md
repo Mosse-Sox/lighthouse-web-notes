@@ -6,11 +6,12 @@
 
 <h4>
 
-- [API]():
+- [API](): Stand for application programming interfaces. 
 - [Asynchronous Code]():
 - [DNS]():
+- [Functional Programming]():
 - [HTTP]():
-- [JSON](): Stands for JavaScript Object Notation. JSON is built on two structures:
+- [JSON](): Stands for JavaScript Object Notation. JSON syntax is valid JavaScript. JSON is built on two structures:
   - A Collection of names/pairs.
   - An ordered list of values.
     -> an Example JSON (from compass):
@@ -28,6 +29,7 @@
   "position": { "lat": 40.7127, "lng": -74.0059 }
 }`
 - [Networking]():
+- [OOP]():
 - [Open Systems Model]():
 - [Recursion]():
 - [Status Code]():
