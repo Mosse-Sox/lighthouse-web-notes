@@ -6,9 +6,14 @@
 
 <h4>
 
-- [API](): Stand for application programming interfaces. 
+- [Abstraction]():
+- [Address Records(A)]():
+- [API](): Stands for application programming interfaces. 
 - [Asynchronous Code]():
-- [DNS]():
+- [Character Encoding]():
+- [cURL]():
+- [DNS](): Stands for Domain Name System
+- [Framework]();
 - [Functional Programming]():
 - [HTTP]():
 - [JSON](): Stands for JavaScript Object Notation. JSON syntax is valid JavaScript. JSON is built on two structures:
@@ -28,13 +33,17 @@
   "area_codes": [212, 347, 646, 718, 917, 929],
   "position": { "lat": 40.7127, "lng": -74.0059 }
 }`
+- [Middleware]():
+- [Name Server(NS)]():
 - [Networking]():
 - [OOP]():
 - [Open Systems Model]():
 - [Recursion]():
+- [Root Name Server]():
 - [Status Code]():
 - [Synchronous Code]():
 - [TCP (Transmission Control Protocol)]():
+- [TLD](): Stands for top level domain
 - [UDP]():
 - [UTF-8]():
 - [Web Scraping]():
