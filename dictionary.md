@@ -6,7 +6,7 @@
 
 <h4>
 
-- [Abstraction]():
+- [Abstraction](https://en.wikipedia.org/wiki/Abstraction_(computer_science)):
 - [Address Records(A)]():
 - [API](): Stands for application programming interfaces. 
 - [Asynchronous Code]():
@@ -16,9 +16,7 @@
 - [Framework]();
 - [Functional Programming]():
 - [HTTP]():
-- [JSON](): Stands for JavaScript Object Notation. JSON syntax is valid JavaScript. JSON is built on two structures:
-  - A Collection of names/pairs.
-  - An ordered list of values.
+- [JSON](https://www.w3schools.com/whatis/whatis_json.asp): Stands for JavaScript Object Notation. JSON syntax is valid JavaScript. 
     -> an Example JSON (from compass):
 
 ```json 
