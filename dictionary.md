@@ -20,7 +20,8 @@
   - A Collection of names/pairs.
   - An ordered list of values.
     -> an Example JSON (from compass):
-  `
+
+```json 
 {
   "name": "New York City",
   "boroughs": [
@@ -32,7 +33,8 @@
   "population": 8491079,
   "area_codes": [212, 347, 646, 718, 917, 929],
   "position": { "lat": 40.7127, "lng": -74.0059 }
-}`
+} 
+```
 - [Middleware]():
 - [Name Server(NS)]():
 - [Networking]():
