@@ -15,7 +15,7 @@
 - [DNS](): Stands for Domain Name System
 - [Framework]();
 - [Functional Programming]():
-- [HTTP]():
+- [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods):
 - [JSON](https://www.w3schools.com/whatis/whatis_json.asp): Stands for JavaScript Object Notation. JSON syntax is valid JavaScript. 
     -> an Example JSON (from compass):
 
@@ -40,6 +40,8 @@
 - [Open Systems Model]():
 - [Recursion]():
 - [Root Name Server]():
+- [Scriplet]():
+- [Server-Side Rendering]():
 - [Status Code]():
 - [Synchronous Code]():
 - [TCP (Transmission Control Protocol)]():
